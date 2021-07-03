@@ -1,0 +1,35 @@
+{
+ margin:0px;
+ padding:0px;
+}
+#mejba{
+    text-align: center;
+}
+
+#kamal{
+    text-align:right;
+}
+.shipon{
+  background: green;
+  margin:40px;
+  border:yellow solid 40px;
+  padding:30px;
+  height:300px;
+  width: 400px;
+  text-align: justify;
+  margin:30px auto;
+  
+}
+.shipon:hover{
+    background:rebeccapurple;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid red 50px;
+    color: white;
+}
+h3{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
